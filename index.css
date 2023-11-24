@@ -4,6 +4,8 @@
     border: 0;
 }
 
+
+
 .sha{
     display: flex;
     justify-content: center;
@@ -14,6 +16,7 @@
     font-weight: bold;
     padding-top: 22px;
     letter-spacing: 0.3rem;
+    width: 200%;
   
 }
 
@@ -62,5 +65,4 @@ img{
     margin-top: 6rem;
     justify-content: flex-start;
 }
-
 
