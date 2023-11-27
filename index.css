@@ -1,6 +1,5 @@
 *{
     margin: 0;
-<<<<<<< HEAD
     border: 0;
     padding: 0;
 }
@@ -15,26 +14,6 @@ h1 {
 header{
     background-color: rgb(45, 77, 45);
     height: 100px;
-=======
-    padding: 0;
-    border: 0;
-}
-
-
-
-.sha{
-    display: flex;
-    justify-content: center;
-    height: 7rem;
-    background-color: rgb(21, 48, 21);
-    color: white;
-    font-size: 2.5rem;
-    font-weight: bold;
-    padding-top: 22px;
-    letter-spacing: 0.3rem;
-    width: 200%;
-  
->>>>>>> 82d05505dce4698fac9924adf1a8cdd78d5669f9
 }
 
 
@@ -71,7 +50,6 @@ img{
     height: 100vh;
   }
 
-<<<<<<< HEAD
   .main-content-row-3-col-1 {
     width: calc(28% - 100px);
     height: 180px;
@@ -140,10 +118,4 @@ img{
      }
     }
  
-  /* @media screen and (min-width: 601px) and (max-width: 900px) {
-    .newbar{
-        width: calc(100% - 36px);
-    }
-  } */
-=======
->>>>>>> 82d05505dce4698fac9924adf1a8cdd78d5669f9
+ 
